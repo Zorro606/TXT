@@ -1,0 +1,5 @@
+1) Favourite film": "Tourist",
+2) favourite serial": "Supernatural",
+3) favourite food": "ice cream",
+4) favourite season of the year": "summer",
+5) the country for visit": "Switzerland"
