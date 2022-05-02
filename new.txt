@@ -1,0 +1,4 @@
+1) ФИО  - Avseenko Anastasiya Nikolaevna",
+2) Age": "32",
+3) Number of pets": "0",
+4) Future desired salary": "5000"
